@@ -1,3 +1,4 @@
+package com.tnsif.constructorprog;
 public class Customer {
 	private String customerName;
 	private int customerId;
